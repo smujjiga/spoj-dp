@@ -37,5 +37,11 @@
     <ClCompile Include="TRT.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ANARC07G.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SCUBADIV.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -79,10 +79,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AIBOHP.cpp" />
+    <ClCompile Include="ANARC07G.cpp" />
     <ClCompile Include="EDIST.cpp" />
     <ClCompile Include="LISA.cpp" />
     <ClCompile Include="MIXTURES.cpp" />
     <ClCompile Include="PIGBANK.cpp" />
+    <ClCompile Include="SCUBADIV.cpp" />
     <ClCompile Include="TRT.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

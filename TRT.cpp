@@ -23,7 +23,7 @@ int solve(int *input, int h, int t, int day) {
 	}
 }
 
-int main() {
+int main_TRT() {
 	int n,input[2010];
 	scanf("%d",&n);
 
