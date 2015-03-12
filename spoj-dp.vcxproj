@@ -80,6 +80,7 @@
   <ItemGroup>
     <ClCompile Include="AIBOHP.cpp" />
     <ClCompile Include="ANARC07G.cpp" />
+    <ClCompile Include="BVAAN.cpp" />
     <ClCompile Include="EDIST.cpp" />
     <ClCompile Include="LISA.cpp" />
     <ClCompile Include="MIXTURES.cpp" />

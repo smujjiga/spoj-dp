@@ -43,5 +43,8 @@
     <ClCompile Include="SCUBADIV.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BVAAN.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
